@@ -10,8 +10,13 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # <h3>step 3:
-
+```
 $git add .
 
 $git commit -m "first commit"
+```
 
+# <h3>step 4:
+
+- [ ] Mulearn
+- [x] Gtech
